@@ -47,9 +47,9 @@
 
 - 数据库名称：`WhiteBookShop`
 - 主要数据表：
-  - `BookTb1`（图书信息表）
-  - `UsersTb1`（用户表）
-  - `BillingTb1`（订单表）
+  - `BookTB1`（图书信息表）
+  - `UsersTB1`（用户表）
+  - `BillTB1`（订单表）
 - 数据库脚本位于：
 ```text
 /database.sql
